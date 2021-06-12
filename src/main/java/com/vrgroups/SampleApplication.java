@@ -1,4 +1,4 @@
-package com.vrgroups.sample;
+package com.vrgroups;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
